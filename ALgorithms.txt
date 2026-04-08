@@ -1,0 +1,7 @@
+Boyer_Moore Majority Vote Algorithm
+Kadane's Algorithm
+Prims Algorithm
+Dijkstras Algorithm
+Bell man Ford Algorithm
+Kruskals Algorithm
+Moore voting Algorithm 
